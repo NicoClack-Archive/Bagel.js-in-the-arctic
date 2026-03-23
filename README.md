@@ -1,0 +1,1 @@
+An abandoned animation I was making in Bagel.js when it was added to GitHub's Arctic Code Vault. I think I was going to make a joke about how it was a beta version that was archived so it wouldn't be much use to a later civilisation. Maybe AI generated code will get that bad though 😂.
